@@ -48,7 +48,7 @@ module.exports = {
         "handle-callback-err": "error",
         "id-blacklist": "error",
         "id-match": "error",
-        "indent": [ "error", 2 ],
+        "indent": [ "error", "tab" ],
         "jsx-quotes": "error",
         "key-spacing": [
           "error", {
